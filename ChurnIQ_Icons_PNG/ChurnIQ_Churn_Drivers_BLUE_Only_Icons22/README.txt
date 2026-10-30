@@ -1,0 +1,2 @@
+CHURNIQ CHURN DRIVERS — BLUE ONLY ICON PACK
+13 transparent 512x512 PNG icons. Blue palette only. Main title, 4 KPI, 4 chart, key insights, 2 filters, reset. Suggested sizes: title 48-64px; KPI 24-32px; charts 20-24px; insights 24-32px; filters/reset 18-22px.
